@@ -1,0 +1,1 @@
+Ocean View HMS is a scalable enterprise-level Hotel Management System developed using advanced programming concepts, Clean Architecture, and industry-standard design patterns to ensure efficient, reliable, and maintainable hotel operations.
