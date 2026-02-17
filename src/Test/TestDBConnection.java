@@ -11,9 +11,9 @@ public class TestDBConnection {
                 Connection conn = DBConnection.getInstance().getConnection();
 
                 if (conn != null && !conn.isClosed()) {
-                    System.out.println(" Database Connected Successfully!");
+                    System.out.println(" Database Connected Successfully.");
                 } else {
-                    System.out.println(" Connection Failed!");
+                    System.out.println(" Connection Failed.");
                 }
 
             } catch (Exception e) {
