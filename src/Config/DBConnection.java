@@ -11,9 +11,9 @@ public class DBConnection {
         private Connection connection;
 
 
-        private final String URL = "jdbc:mysql://localhost:3306/oceanview_db";
+        private final String URL = "jdbc:mysql://localhost:3306/OceanViewDB";
         private final String USER = "root";
-        private final String PASSWORD = "password";
+        private final String PASSWORD = "0805";
 
 
         private DBConnection() throws SQLException {
